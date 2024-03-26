@@ -1,0 +1,20 @@
+.metrics-container {
+    padding: 20px;
+  }
+  
+  .metric {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .metric h3 {
+    margin-top: 0;
+  }
+  
+  .metric p {
+    margin: 0;
+  }
+  
